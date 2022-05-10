@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MichaelLevi1
 - 👀 I'm currently studying physics and aerospace engineering.
-- 🌱 I’m currently learning MATLAB, LaTex and Python.
+- 🌱 I’m currently learning MATLAB, LaTeX and Python.
 - 💻 This GitHub is currently for any recreational coding I do while developing my programming skills.
 
 <!---
